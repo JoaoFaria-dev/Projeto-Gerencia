@@ -6,5 +6,7 @@ public class Calculadora {
         System.out.println("Divisão: " + Divisao.dividir(10,2));
         //teste
         System.out.println("Potência: " + Potencia.potencia(2,3));
+
+        System.out.println("Divisão com resto: " + (10 % 3));
     }
 }
