@@ -8,5 +8,6 @@ public class Calculadora {
         System.out.println("Potência: " + Potencia.potencia(2,3));
 
         System.out.println("Divisão com resto: " + (10 % 3));
+        System.out.println("Divisão completa");
     }
 }
