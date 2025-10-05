@@ -1,5 +1,6 @@
 public class Calculadora {
     public static void main(String[] args) {
-        System.out.println("Calculadora inicial");
+        //teste
+        System.out.println("Divisão: " + Divisao.dividir(10,2));
     }
 }
