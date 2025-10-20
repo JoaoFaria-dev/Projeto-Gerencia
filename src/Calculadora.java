@@ -10,5 +10,6 @@ public class Calculadora {
         System.out.println("Divisão com resto: " + (10 % 3));
         System.out.println("Divisão completa");
         System.out.println("Raiz: " + Raiz.raiz(16));
+        System.out.println("testandoHAHAHAHAHAHAHAHAHAAHAH");
     }
 }
